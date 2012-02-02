@@ -1,3 +1,5 @@
 build/
 *.swp
 .gradle
+.DS_Store
+.idea
